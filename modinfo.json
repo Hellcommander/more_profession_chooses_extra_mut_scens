@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "more_profession_chooses_extra_mut_scens",
+    "name": "More Professions can start in Extra Mutated Scenarios",
+    "authors": [ "Arendeth" ],
+    "description": "Does a small tweak to allow all non-scenerio professions to start in the scenerios added by Extra Mutated Scenarios",
+    "category": "misc_additions",
+    "dependencies": [ "dda", "extra_mut_scens" ]
+  }
+]
