@@ -3,6 +3,6 @@
     "type": "scenario",
     "id": "extscenario_prethresh",
 	"copy-from": "extscenario_prethresh",
-    "start_of_cataclysm": { "hour": 5, "day": 61, "season": "spring", "year": 1 },
-    "start_of_game": { "hour": 5, "day": 61, "season": "spring", "year": 1 }
+	"add_professions": true
+  }
 ]
