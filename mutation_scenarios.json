@@ -3,6 +3,175 @@
     "type": "scenario",
     "id": "extscenario_prethresh",
 	"copy-from": "extscenario_prethresh",
+    "add_professions": true
+  },
+    {
+    "type": "scenario",
+    "id": "extscenario_alpha",
+	"copy-from": "extscenario_alpha",
+    "add_professions": true
+  },
+    {
+    "type": "scenario",
+    "id": "extscenario_batrachian",
+	"copy-from": "extscenario_batrachian",
+    "add_professions": true
+  },
+    {
+    "type": "scenario",
+    "id": "extscenario_crustacean",
+	"copy-from": "extscenario_crustacean",
+    "add_professions": true
+  },
+    {
+    "type": "scenario",
+    "id": "extscenario_gastropod",
+	"copy-from": "extscenario_gastropod",
+    "add_professions": true
+  },
+      {
+    "type": "scenario",
+    "id": "extscenario_beast",
+	"copy-from": "extscenario_beast",
+    "add_professions": true
+  },
+        {
+    "type": "scenario",
+    "id": "extscenario_bird",
+	"copy-from": "extscenario_bird",
+    "add_professions": true
+  },
+          {
+    "type": "scenario",
+    "id": "extscenario_cattle",
+	"copy-from": "extscenario_cattle",
+    "add_professions": true
+  },
+            {
+    "type": "scenario",
+    "id": "extscenario_cephalopod",
+	"copy-from": "extscenario_cephalopod",
+    "add_professions": true
+  },
+              {
+    "type": "scenario",
+    "id": "extscenario_chimera",
+	"copy-from": "extscenario_chimera",
+    "add_professions": true
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_elfa",
+	"copy-from": "extscenario_elfa",
+    "add_professions": true
+  },
+            {
+    "type": "scenario",
+    "id": "extscenario_feline",
+	"copy-from": "extscenario_feline",
+    "add_professions": true
+  },
+            {
+    "type": "scenario",
+    "id": "extscenario_fish",
+	"copy-from": "extscenario_fish",
+    "add_professions": true
+  },
+              {
+    "type": "scenario",
+    "id": "extscenario_insect",
+	"copy-from": "extscenario_insect",
+    "add_professions": true
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_lizard",
+	"copy-from": "extscenario_lizard",
+    "add_professions": true
+  },
+            {
+    "type": "scenario",
+    "id": "extscenario_lupine",
+	"copy-from": "extscenario_lupine",
+    "add_professions": true
+  },
+            {
+    "type": "scenario",
+    "id": "extscenario_marloss",
+	"copy-from": "extscenario_marloss",
+    "add_professions": true
+  },
+              {
+    "type": "scenario",
+    "id": "extscenario_medical",
+	"copy-from": "extscenario_medical",
+    "add_professions": true
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_mouse",
+	"copy-from": "extscenario_mouse",
+    "add_professions": true
+  },
+                  {
+    "type": "scenario",
+    "id": "extscenario_mycus",
+	"copy-from": "extscenario_mycus",
+    "add_professions": true
+  },
+                  {
+    "type": "scenario",
+    "id": "extscenario_plant",
+	"copy-from": "extscenario_plant",
+    "add_professions": true
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_chiropteran",
+	"copy-from": "extscenario_chiropteran",
+    "add_professions": true
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_rabbit",
+	"copy-from": "extscenario_rabbit",
+    "add_professions": true
+  },
+                  {
+    "type": "scenario",
+    "id": "extscenario_raptor",
+	"copy-from": "extscenario_raptor",
+    "add_professions": true
+  },
+                  {
+    "type": "scenario",
+    "id": "extscenario_rat",
+	"copy-from": "extscenario_rat",
+    "add_professions": true
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_slime",
+	"copy-from": "extscenario_slime",
+    "add_professions": true
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_spider",
+	"copy-from": "extscenario_spider",
+    "add_professions": true
+  },
+                  {
+    "type": "scenario",
+    "id": "extscenario_troglobite",
+	"copy-from": "extscenario_troglobite",
 	"add_professions": true
+  },
+                  {
+    "type": "scenario",
+    "id": "extscenario_ursine",
+	"copy-from": "extscenario_ursine",
+    "add_professions": true
   }
 ]
+
